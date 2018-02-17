@@ -9,4 +9,4 @@ end
 # code your input_to_index and move method here!
 def input_to_index
   puts "1" = #{board[0]}
-  
+  puts "2" = 
