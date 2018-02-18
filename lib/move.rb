@@ -13,5 +13,5 @@ end
 
 
 def move(board, index, player = "X")
-  puts 
+  board[index] = player
 end
