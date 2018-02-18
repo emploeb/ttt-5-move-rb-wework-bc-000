@@ -9,18 +9,9 @@ end
 # code your input_to_index and move method here!
 def input_to_index(user_input)
  user_input.to_i - 1 
- i - 1 
-  "2".to_i "1"
-  "3".to_i "2"
-  "4".to_i "3"
-  "5".to_i "4"
-  "6".to_i "5"
-  "7".to_i "6"
-  "8".to_i "7"
-  "9".to_i "8"
-  
 end
 
 
 def move
   puts 
+end
